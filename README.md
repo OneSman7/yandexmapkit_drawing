@@ -14,7 +14,7 @@ canvas.delegate = self;
 [canvas beginDrawingPolygon];
 ```
 
-And implement YandexMapDrawingCanvasDelegate to know when the drawing finished.
+And implement YandexMapDrawingCanvasDelegate to know when the drawing is finished.
 
 You can also add polygons using methods and set polygon fill and stroke color.
 
